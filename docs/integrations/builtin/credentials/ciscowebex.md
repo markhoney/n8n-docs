@@ -38,7 +38,7 @@ n8n recommends using the following **Scopes** for your integration:
 * `spark:messages_write`
 * `spark:messages_read`
 * `spark:membership_read`
-* `spark_membership_write`
+* `spark:membership_write`
 * `meeting:recordings_write`
 * `meeting:recordings_read`
 * `meeting:preferences_read`
